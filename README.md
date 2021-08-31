@@ -21,6 +21,6 @@ Point 3 rotates at a random speed anti-clockwise around an inner circle\
 Point 2 is at the mouse position\
 Left mouse switches between line render and fill render\
 Right mouse switches between HSB colour and White\
-<img src="https://github.com/MattR2718/Bezier/blob/main/CyclicBezier/ColourFillBezier.PNG" width="200" height="500">
-<img src="https://github.com/MattR2718/Bezier/blob/main/CyclicBezier/ColourLineBezier.PNG" width="200" height="500">
-<img src="https://github.com/MattR2718/Bezier/blob/main/CyclicBezier/WhiteLineBezier.PNG" width="200" height="500">
+<img src="https://github.com/MattR2718/Bezier/blob/main/CyclicBezier/ColourFillBezier.PNG" width="300" height="300">
+<img src="https://github.com/MattR2718/Bezier/blob/main/CyclicBezier/ColourLineBezier.PNG" width="300" height="300">
+<img src="https://github.com/MattR2718/Bezier/blob/main/CyclicBezier/WhiteLineBezier.PNG" width="300" height="300">
